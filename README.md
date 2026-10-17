@@ -6,8 +6,7 @@ This repository contains Python projects created to practice programming and pro
 ## Projects
 - Chatbot: A simple chatbot project.
 - Hangman: A word-guessing game.
-- Portfolio: A Python project. Add its exact purpose and features here.
-
+- Portfolio: A personal portfoilo project showcasting my profile, technical skills, projects and learning experience.
 ## Technology Used
 - Python
 
